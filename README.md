@@ -11,4 +11,12 @@ cd link-x
 ruby link.rb
 ```
 
-<yellow> Hmm
+<b> • [Whatsapp](https://wa.me/6283138613993)
+
+<b> • [facebook](https://www.facebook.com/inu.pembangkang.7)
+
+<b> • [Instagram](https://www.instagram.com/p/CdYG_kRPFwJ/)
+
+
+
+

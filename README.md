@@ -1,3 +1,5 @@
+<img src="https://i.ibb.co/kHWcYxX/1649523173-picsay.png" alt="1649523173-picsay" border="0"></a>
+
 > [ BAHAN ]
 ```
 apt install ruby python nodejs php wget curl unzip -y

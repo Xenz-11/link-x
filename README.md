@@ -19,7 +19,7 @@ ruby link.rb
 
 <b> • [Instagram](https://www.instagram.com/p/CdYG_kRPFwJ/)
 
-! [Ss](https://github.com/Xenz-11/link-x/blob/main/Ss/Screenshot_20220516-191219.jpg)
+![Ss](https://github.com/Xenz-11/link-x/blob/main/Ss/Screenshot_20220516-191219.jpg)
 
 
 
